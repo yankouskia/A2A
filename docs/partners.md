@@ -25,6 +25,7 @@ collaborate effectively with each other and with users.
 - [Atlassian](https://www.atlassian.com)
 - [Auth0](https://auth0.com/blog/auth0-google-a2a/)
 - [Autodesk](https://www.autodesk.com)
+- [Auto Agent Protocol](https://autoagentprotocol.org/)
 - [AWS](https://aws.amazon.com/)
 - [Beekeeper](http://beekeeper.io)
 - [BCG](https://www.bcg.com)
